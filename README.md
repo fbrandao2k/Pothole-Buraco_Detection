@@ -6,7 +6,7 @@ Based on the course [YOLOv8, Train Custom Dataset, Object Detection, Segmentatio
 
 Yolo V8
 
-Database from Roboflow: ![potholes-detection-yolonas Computer Vision Project](https://universe.roboflow.com/moinfaisal/potholes-detection-yolonas)
+Database from Roboflow: [potholes-detection-yolonas Computer Vision Project](https://universe.roboflow.com/moinfaisal/potholes-detection-yolonas)
 
 https://github.com/user-attachments/assets/0eb0d239-c0bf-4f09-bd7b-751ef04a58e6
 
