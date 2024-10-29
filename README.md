@@ -8,13 +8,9 @@ Yolo V8
 
 Database from Roboflow: ![potholes-detection-yolonas Computer Vision Project](https://universe.roboflow.com/moinfaisal/potholes-detection-yolonas)
 
-
-
 https://github.com/user-attachments/assets/0eb0d239-c0bf-4f09-bd7b-751ef04a58e6
 
 
-
-![pothole_detection](https://github.com/user-attachments/assets/b954d91a-a846-4315-9e16-d2b864fc6330)
 
 *** Portugues ***
 
